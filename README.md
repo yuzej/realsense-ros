@@ -3,6 +3,8 @@ These are packages for using Intel RealSense cameras (D400 series SR300 camera a
 
 This version supports Kinetic, Melodic and Noetic distributions.
 
+For the user of D405 in ROS1, please change the HWID as /include/realsense2_camera/constants.h
+
 For running in ROS2 environment please switch to the [ros2 branch](https://github.com/IntelRealSense/realsense-ros/tree/ros2-beta). </br>
 
 LibRealSense2 supported version: v2.50.0 (see [realsense2_camera release notes](https://github.com/IntelRealSense/realsense-ros/releases))
